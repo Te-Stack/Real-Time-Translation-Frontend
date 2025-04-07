@@ -49,8 +49,8 @@ VITE_BACKEND_URL=your_backend_url
 ```
 
 ## 📁 Project Structure
-```markdown
-## 📁 Project Structure
+
+
 
 ```plaintext
 translation-chat/
@@ -65,7 +65,6 @@ translation-chat/
 ├── .gitignore
 ├── package.json
 └── vite.config.js
-```
 ```
 
 ## 🚀 Key Components
