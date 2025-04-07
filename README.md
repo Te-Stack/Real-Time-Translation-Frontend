@@ -49,6 +49,10 @@ VITE_BACKEND_URL=your_backend_url
 ```
 
 ## 📁 Project Structure
+```markdown
+## 📁 Project Structure
+
+```plaintext
 translation-chat/
 ├── src/
 │   ├── components/
@@ -61,16 +65,20 @@ translation-chat/
 ├── .gitignore
 ├── package.json
 └── vite.config.js
+```
+```
 
 ## 🚀 Key Components
 Authentication
 - User login/logout functionality
 - Session management
 - Secure token handling
+
 Chat Integration
 - Real-time messaging
 - Channel creation and management
 - Message synchronization
+
 Translation System
 - Dynamic language detection
 - Real-time message translation
@@ -99,7 +107,7 @@ React Documentation
 Vite
 
 ## 📫 Contact
-Twitter: [Quincy](.com/Quincyoghenex)
+Twitter: [Quincy](https://x.com/Quincyoghenex)
 
 Project Link: https://github.com/Te-Stack/Real-Time-Translation-Frontend
 
